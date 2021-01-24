@@ -1,1 +1,1 @@
-In this project I made an Parking Sensor with Stm32F407G Board,HC-SR04 Distance Sensor.Then I added a Solar Panel for save the nature.If you add this files your Stm board,you can run your board exclusively.
+In this project I made a Parking Sensor with Stm32F407G Board,HC-SR04 Distance Sensor.Then I added a Solar Panel for save the nature.If you add this files your Stm board,you can run your board exclusively.
